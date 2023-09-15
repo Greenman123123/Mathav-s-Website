@@ -1,0 +1,65 @@
+.bio{
+    font-family:  'Arial Narrow Bold', sans-serif, monospace;
+    font-size: 30px;
+    background-color: aqua ;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#homeHeader{
+    font-family: fantasy;
+    background-color: aqua;
+    color: rgb(141, 100, 218);
+    text-align: center;
+    font-size: 50px;
+    margin-left: 650px;
+    margin-right: 650px;
+    border-radius: 10px;
+    padding: 10px;
+    letter-spacing: 3px;
+}
+
+#introVid{
+    margin-left: 750px;
+    background-color: darkolivegreen;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.mathavImages1{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    padding: 25px;
+}
+.mathavImages2{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    padding: 25px
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgb(226, 205, 10);
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgb(224, 24, 24);
+    color: rgb(22, 236, 219);
+}
+
+.topnav a.active {
+    background-color: #04aa8e;
+    color: white;
+}
